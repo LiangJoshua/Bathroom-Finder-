@@ -1,2 +1,1 @@
-# CS160
-Software Engineering
+# Bathroom Finder Application
